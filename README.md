@@ -14,11 +14,11 @@ Ordering coffee in Singapore hawker centre and food court could result in some s
 Content
 ====
 
-Code:
+**Code:**
 
  - [Kopitiam.ipynb](https://github.com/alvations/kopitiam/blob/master/Kopitiam.ipynb)
 
-Pre-trained Models:
+**Pre-trained Models:**
 
  - *Vanilla RNN Encoder-Decoder model*
    - `encoder_vanilla_100_100000.pkl`
