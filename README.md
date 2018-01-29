@@ -26,6 +26,9 @@ Content
  - *Vanilla RNN Encoder-Decoder model with teacher forcing*
    - `encoder_vanilla_100_100000_0.5.pkl`
    - `decoder_vanilla_100_100000_0.5.pkl`
+  - *Attention RNN Encoder-Decoder model with teacher forcing*
+   - `encoder_attention_100_100000_0.5.pkl`
+   - `decoder_attention_100_100000_0.5.pkl`
 
 Requirements
 ====
