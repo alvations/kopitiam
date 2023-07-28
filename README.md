@@ -17,9 +17,7 @@ Ordering coffee in Singapore hawker centre and food court could result in some s
 Content
 ====
 
-**Code:**
-
- - [How to Fine-Tune an OPUS Machine Translation Model?]()
+[How to Fine-Tune an OPUS Machine Translation Model?](https://www.kaggle.com/code/alvations/how-to-fine-tune-an-opus-mt-model/)
 
 
 
