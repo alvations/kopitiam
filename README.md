@@ -1,7 +1,6 @@
 # Kopitiam
 
-**[Updated Jul 2023]:** Here is the updated notebook on how to fine-tune a **Seq2Seq model with Huggingface Transformers**, (not presented publicly yet), 
-
+**[Updated Jul 2023]:** Here is the updated notebook on how to fine-tune a **Seq2Seq model with Huggingface Transformers**, (not presented publicly yet), https://www.kaggle.com/code/alvations/how-to-fine-tune-an-opus-mt-model/
 
 
 This was the repository that host the notebook for the **Seq2Seq with PyTorch** session in Data Science SG meetup in January 2018. The original accompanying slides can be found on https://goo.gl/Lu6CxB and the 2018 original notebook is on https://github.com/alvations/kopitiam/blob/master/Kopitiam.ipynb
