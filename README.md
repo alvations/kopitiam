@@ -1,6 +1,6 @@
 # Kopitiam
 
-[Updated Jul 2023]: Here is the updated notebook on how to tune a **Seq2Seq model with Huggingface Transformers**, (not presented publicly yet), 
+**[Updated Jul 2023]:** Here is the updated notebook on how to tune a **Seq2Seq model with Huggingface Transformers**, (not presented publicly yet), 
 
 
 
